@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dijdzv&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6643ab5d662f1deb343fd3e3?variant=dark)](https://roadmap.sh)
